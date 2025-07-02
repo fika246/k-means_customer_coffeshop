@@ -1,0 +1,13 @@
+CustomerID,Age,Gender,VisitFrequency,AverageSpending,AverageTimeSpent,FavoriteProduct,PreferredTime,PurchaseMethod,BrandLoyalty
+1,23.0,Female,12.0,8.5,25.0,Cappuccino,Afternoon,Card,High
+2,32.0,Male,4.0,15.75,35.0,Espresso,Morning,Cash,Medium
+3,28.0,Female,8.0,12.3,28.0,Latte,Afternoon,Card,High
+4,45.0,Male,2.0,22.5,45.0,ColdBrew,Evening,Cash,Low
+5,19.0,Female,15.0,6.8,18.0,IcedCoffee,Morning,Card,High
+6,37.0,Male,6.0,18.2,38.0,FlatWhite,Afternoon,Cash,Medium
+7,41.0,Female,3.0,24.6,50.0,Mocha,Evening,Card,Low
+8,26.0,Male,10.0,10.4,22.0,Americano,Morning,Card,High
+9,33.0,Female,5.0,14.8,30.0,Macchiato,Afternoon,Cash,Medium
+10,29.0,Male,7.0,13.25,32.0,Cortado,Evening,Card,Medium
+...,,,,,,,,,
+100,27.0,Female,10.0,10.1,24.0,Cappuccino,Morning,Card,High
